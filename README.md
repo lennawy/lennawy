@@ -87,7 +87,7 @@
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <p><b>My contribution:</b> Built the document processing pipeline for extracting and structuring information from PDFs, and designed the course-matching mechanism.</p>
+      <p><b>My contribution:</b> Contributed to system architecture design discussions, researched and implemented text extraction from user-uploaded PDFs (including photo-taken documents), and designed several backend API endpoints.</p>
       <br>
       <a href="https://github.com/Yakub28/arip-academic-recognition">→ View Repository</a>
     </td>
